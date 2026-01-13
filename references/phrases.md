@@ -13,6 +13,8 @@ Remove these announcement phrases. State the content directly.
 - "I'll say it again:"
 - "I'm going to be honest"
 - "Can we talk about"
+- "Here's what I find interesting"
+- "Here's the problem though"
 
 ## Emphasis Crutches
 
@@ -67,3 +69,19 @@ Remove self-referential asides:
 - "But that's another post"
 - "X is a feature, not a bug"
 - "Dressed up as"
+
+## Performative Emphasis
+
+False intimacy or manufactured sincerity:
+
+- "creeps in"
+- "I promise"
+- "They exist, I promise"
+
+## Telling Instead of Showing
+
+Announcing difficulty or significance rather than demonstrating it:
+
+- "This is genuinely hard"
+- "This is what leadership actually looks like"
+- "This is what X actually looks like"

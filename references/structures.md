@@ -11,6 +11,9 @@ These create false drama. State the point directly.
 | "The answer isn't X. It's Y." | Predictable pivot |
 | "It feels like X. It's actually Y." | Setup/reveal cliche |
 | "The question isn't X. It's Y." | Rhetorical misdirection |
+| "Not X. But Y." | Mechanical contrast |
+| "It's not this. It's that." | Same formula, different words |
+| "stops being X and starts being Y" | False transformation arc |
 
 **Instead:** State Y directly. "The problem is Y." "Y matters here."
 
@@ -56,3 +59,13 @@ These announce insight rather than deliver it.
 | Sentences starting with "Look," | Remove |
 | Every paragraph ends punchily | Vary endings |
 | Em-dashes before reveals | Use periods or commas |
+| Staccato fragmentation | Don't stack short punchy sentences |
+| Dashes for dramatic pause | Use commas or periods |
+| "Not always. Not perfectly." | Hedging disguised as reassurance |
+
+## Word Patterns
+
+| Pattern | Problem |
+|---------|---------|
+| Absolute words (always, never, everyone, everybody, nobody) | False authority |
+| AI-overused intensifiers (deeply, truly, fundamentally, inherently, simply, literally, inevitably) | Empty emphasis |
